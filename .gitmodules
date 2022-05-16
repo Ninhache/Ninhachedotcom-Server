@@ -1,0 +1,3 @@
+[submodule "src/public/MazeThings"]
+	path = src/public/MazeThings
+	url = https://github.com/Ninhache/MazeThings.git
