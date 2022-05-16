@@ -10,15 +10,4 @@ router.get('/', function(req, res, next) {
     }
 });
 
-/*
-router.use('/oui', function(req, res, next) {
-    try {
-        res.write("<h1>Just SeriesOUIIIIIIIII</h1>");
-    } catch (err) {
-        console.error(`Error while getting OUII? `, err.message);
-        next(err);
-    }
-});
-*/
-
 module.exports = router;
