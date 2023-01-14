@@ -4,3 +4,6 @@
 [submodule "src/public/JustSeries"]
 	path = src/public/JustSeries
 	url = https://github.com/Ninhache/JustSeries.git
+[submodule "src/public/Portfolio"]
+	path = src/public/Portfolio
+	url = https://github.com/Ninhache/Ninhachedotcom-Server
